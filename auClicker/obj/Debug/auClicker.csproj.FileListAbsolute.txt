@@ -1,0 +1,15 @@
+C:\Users\marik\source\repos\auClicker\auClicker\bin\Debug\auClicker.exe.config
+C:\Users\marik\source\repos\auClicker\auClicker\bin\Debug\auClicker.exe.manifest
+C:\Users\marik\source\repos\auClicker\auClicker\bin\Debug\auClicker.exe
+C:\Users\marik\source\repos\auClicker\auClicker\bin\Debug\auClicker.pdb
+C:\Users\marik\source\repos\auClicker\auClicker\bin\Debug\AutoItX3.dll
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.csprojAssemblyReference.cache
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.csproj.ResolveComReference.cache
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.Form1.resources
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.Properties.Resources.resources
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.csproj.GenerateResource.cache
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.csproj.CoreCompileInputs.cache
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.exe.manifest
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.exe
+C:\Users\marik\source\repos\auClicker\auClicker\obj\Debug\auClicker.pdb
